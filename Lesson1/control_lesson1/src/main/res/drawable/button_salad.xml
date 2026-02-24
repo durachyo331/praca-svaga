@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Салатовый цвет -->
+    <solid android:color="#2E8B57" />
+    <!-- Скругление углов (можно убрать или изменить) -->
+    <corners android:radius="8dp" />
+    <!-- По желанию можно добавить обводку:
+    <stroke android:width="2dp" android:color="#FF4081" /> -->
+</shape>

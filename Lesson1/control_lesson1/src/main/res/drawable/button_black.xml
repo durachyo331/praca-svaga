@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Чёрный цвет фона -->
+    <solid android:color="#FF000000" /> <!-- Можно также написать #000000 -->
+    <!-- Скругление углов (по желанию, можно убрать) -->
+    <corners android:radius="8dp" />
+    <!-- Если нужна обводка (например, белая), добавьте:
+    <stroke android:width="2dp" android:color="#FFFFFF" /> -->
+</shape>
